@@ -1,2 +1,3 @@
-# simpy_simulations
-Examples of simulation apps using simpy
+# Basic examples for simpy
+
+Examples of simulation scenarios using simpy
